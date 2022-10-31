@@ -4,7 +4,7 @@
     "name": "Argentina",
     "mplayer": "png",
     "cardpic": "png",
-    "background": "png",
+    "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/02.jpg",
     "details": "92998-3874888888888",
     "images": {
       "image1": "png",
@@ -19,7 +19,7 @@
     "name": "Brazil",
     "mplayer": "png",
     "cardpic": "png",
-    "background": "png",
+    "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/12.png",
     "details": "92998-3874-888888888",
     "images": {
       "image1": "png",
@@ -34,7 +34,7 @@
     "name": "Portugal",
     "mplayer": "png",
     "cardpic": "png",
-    "background": "png",
+    "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/02.jpg",
     "details": "92998-3874-888888888",
     "images": {
       "image1": "png",

@@ -29,21 +29,7 @@
       "image5": "png"
     }
   },
-  {
-    "id": 3,
-    "name": "Portugal",
-    "mplayer": "png",
-    "cardpic": "png",
-    "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/p01.jpg",
-    "details": "After reaching the final of Euro 2004 with their golden generation, and finishing 4th at the 2006 World Cup, Portugal's 1st major trophy came in 2016's European Championship, followed by Nations League in 2019, making it the 2nd major tournament title earned by the Portuguese in three finals.",
-    "images": {
-      "image1": "png",
-      "image2": "png",
-      "image3": "png",
-      "image4": "png",
-      "image5": "png"
-    }
-  },
+  
   {
     "id": 4,
     "name": "France",

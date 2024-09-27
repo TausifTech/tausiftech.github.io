@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "NY T-Shirt | Dropshoulder",
+    "price": 1000,
+    "originalPrice": 1200,
+    "category": "Dropshoulder T-shirt",
+    "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/02.jpg",
+    "details": "This black cotton drop-shoulder t-shirt exudes effortless style and comfort. The relaxed fit creates a laid-back silhouette, while the drop-shoulder design adds a contemporary edge. Contrasting white stripes run down the arms, adding a sporty touch that elevates the overall look. Crafted from soft, breathable cotton, it’s perfect for casual outings or lounging at home. Pair it with jeans or joggers for a chic yet comfortable ensemble. The simple yet striking design makes it a versatile staple in any wardrobe.",
+    "images": {
+      "image1": "png",
+      "image2": "png",
+      "image4": "png",
+      "image3": "png",
+      "image5": "png"
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 120
+    },
+  },
+  {
+    "id": 2,
+    "title": "Hustle T-Shirt | Dropshoulder",
+    "price": 1000,
+    "originalPrice": 1200,
+    "category": "Dropshoulder T-shirt",
+    "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/02.jpg",
+    "details": "The Argentina national team is one of the eight to have won the FIFA World Cup, having done so in 1978, 1986 and 2022, and also being runner-up in 1930, 1990 and 2014. Argentina has also won the top continental tournament, the Copa América, 15 times, and the FIFA Confederations Cup in 1992.",
+    "images": {
+      "image1": "png",
+      "image2": "png",
+      "image4": "png",
+      "image3": "png",
+      "image5": "png"
+    },
+    "rating": {
+      "rate": 4.9,
+      "count": 90
+    },
+  },
+  {
+    "id": 3,
+    "title": "KNICKS Hoodie | White",
+    "price": 1500,
+    "originalPrice": 2000,
+    "category": "Hoodie",
+    "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/02.jpg",
+    "details": "This white cotton hoodie combines comfort and style, perfect for any fan. Featuring a cozy grey-lined hood, it provides a striking contrast that enhances its sleek design. The standout detail is the bold NY-KNICKS print across the chest, showcasing your team spirit in a fashionable way. Made from soft, breathable fabric, it’s ideal for game days or casual outings. With a relaxed fit and a convenient kangaroo pocket, this hoodie is as functional as it is stylish, making it a must-have for any Knicks supporter.",
+    "images": {
+      "image1": "png",
+      "image2": "png",
+      "image4": "png",
+      "image3": "png",
+      "image5": "png"
+    },
+    "rating": {
+      "rate": 4.5,
+      "count": 156
+    },
+  },
+  {
+    "id": 4,
+    "title": "ENDGAME Hoodie | Black",
+    "price": 1500,
+    "originalPrice": 2000,
+    "category": "Hoodie",
+    "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/02.jpg",
+    "details": "This black cotton hoodie is a stylish and comfortable piece, featuring a striking ENDGAME print prominently displayed across the front. The deep black color provides a sleek backdrop that highlights the bold graphic, making it a standout addition to your wardrobe. Crafted from soft, breathable fabric, this hoodie offers a relaxed fit with a cozy hood and a kangaroo pocket for added convenience. Perfect for casual outings, lounging, or showing off your fandom, this hoodie effortlessly combines comfort with a cool, contemporary vibe. Pair it with jeans or joggers for a laid-back yet stylish look.",
+    "images": {
+      "image1": "png",
+      "image2": "png",
+      "image4": "png",
+      "image3": "png",
+      "image5": "png"
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 210
+    },
+  },
+  {
+    "id": 5,
+    "title": "ICE HOCKEY Hoodie | Black",
+    "price": 1500,
+    "originalPrice": 2000,
+    "category": "Hoodie",
+    "background": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/main/assets/files/background01/02.jpg",
+    "details": "This white cotton hoodie is a must-have for ice hockey enthusiasts. Featuring a bold ICE HOCKEY print across the front, it showcases your passion for the sport in a stylish way. The soft, breathable fabric ensures comfort, while the relaxed fit and cozy hood make it perfect for both game days and casual outings. With a kangaroo pocket for added convenience, this hoodie is as functional as it is fashionable. Pair it with jeans or joggers for a laid-back look that highlights your love for ice hockey.",
+    "images": {
+      "image1": "png",
+      "image2": "png",
+      "image4": "png",
+      "image3": "png",
+      "image5": "png"
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 165
+    },
+  },
+]

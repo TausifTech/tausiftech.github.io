@@ -1,27 +1,6 @@
 [
   {
     "id": 1,
-    "title": "ICE HOCKEY Hoodie",
-    "thumbnail": "https://th.bing.com/th/id/OIP.tAqWZXNLY-ZBL_dp4Rx0nQHaNJ?w=640&h=1136&rs=1&pid=ImgDetMain",
-    "mockup": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/refs/heads/main/assets/files/background01/icehockey.png",
-    "price": 2000,
-    "originalPrice": 3000,
-    "category": "Hoodie",
-    "details": "This black cotton drop-shoulder t-shirt exudes effortless style and comfort. The relaxed fit creates a laid-back silhouette, while the drop-shoulder design adds a contemporary edge. Contrasting white stripes run down the arms, adding a sporty touch that elevates the overall look. Crafted from soft, breathable cotton, it’s perfect for casual outings or lounging at home. Pair it with jeans or joggers for a chic yet comfortable ensemble. The simple yet striking design makes it a versatile staple in any wardrobe.",
-    "images": {
-      "image1": "png",
-      "image2": "png",
-      "image4": "png",
-      "image3": "png",
-      "image5": "png"
-    },
-    "rating": {
-      "rate": 4.7,
-      "count": 120
-    }
-  },
-  {
-    "id": 2,
     "title": "ENDGAME Hoodie",
     "thumbnail": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/refs/heads/main/assets/files/background01/aacceg.jpg",
     "mockup": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/refs/heads/main/assets/files/background01/endgame.png",
@@ -39,6 +18,27 @@
     "rating": {
       "rate": 4.9,
       "count": 90
+    }
+  },
+  {
+    "id": 2,
+    "title": "ICE HOCKEY Hoodie",
+    "thumbnail": "https://th.bing.com/th/id/OIP.tAqWZXNLY-ZBL_dp4Rx0nQHaNJ?w=640&h=1136&rs=1&pid=ImgDetMain",
+    "mockup": "https://raw.githubusercontent.com/TausifTech/tausiftech.github.io/refs/heads/main/assets/files/background01/icehockey.png",
+    "price": 2000,
+    "originalPrice": 3000,
+    "category": "Hoodie",
+    "details": "This black cotton drop-shoulder t-shirt exudes effortless style and comfort. The relaxed fit creates a laid-back silhouette, while the drop-shoulder design adds a contemporary edge. Contrasting white stripes run down the arms, adding a sporty touch that elevates the overall look. Crafted from soft, breathable cotton, it’s perfect for casual outings or lounging at home. Pair it with jeans or joggers for a chic yet comfortable ensemble. The simple yet striking design makes it a versatile staple in any wardrobe.",
+    "images": {
+      "image1": "png",
+      "image2": "png",
+      "image4": "png",
+      "image3": "png",
+      "image5": "png"
+    },
+    "rating": {
+      "rate": 4.7,
+      "count": 120
     }
   },
   {
